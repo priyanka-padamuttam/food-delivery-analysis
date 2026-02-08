@@ -1,2 +1,8 @@
-# food-delivery-analysis
-Exploratory Data Analysis of food delivery performance and customer satisfaction using Python
+### 📊 Food Delivery Performance & Customer Satisfaction Analysis
+- Analyzed food delivery order data using Python and Pandas
+- Identified factors affecting delivery time and customer ratings
+- Visualized city-wise, day-wise, and partner-wise performance trends
+- Tools: Python, Pandas, Matplotlib, Jupyter Notebook
+
+🔗 Repository: https://github.com/your-username/food-delivery-analysis
+
