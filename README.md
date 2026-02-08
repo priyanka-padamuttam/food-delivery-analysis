@@ -4,5 +4,5 @@
 - Visualized city-wise, day-wise, and partner-wise performance trends
 - Tools: Python, Pandas, Matplotlib, Jupyter Notebook
 
-🔗 Repository: https://github.com/your-username/food-delivery-analysis
+🔗 Repository: https://github.com/priyanka-padamuttam/food-delivery-analysis
 
